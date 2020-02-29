@@ -3,14 +3,6 @@
   <title>mywork</title>
 </head>
 <body>
- 
-  <h1>welcome to mywork</h1>
-  
-  <?php the_title( '<h3>', '</h3>' ); ?>
-  <?php the_content( 'Continue reading ' . get_the_title() ); ?>
-
-<?php
-echo "welcome";
-
-?>
+<a style ="color:blue; "href="http://www.mywork.com/wordpress/home/">home</a>
+<a style ="color:blue; "href="http://www.mywork.com/wordpress/contact/">contact</a>
 </body>
